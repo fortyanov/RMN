@@ -1,0 +1,82 @@
+{
+    "timestamp": "04.07.2014 05:14 PM", 
+    "all_issues": {
+        "1": {
+            "allotted_hours": 60, 
+            "sended_to_manager": false, 
+            "issue_link": "http://redmine.crypto.local/issues/1", 
+            "sended_to_responsible": false, 
+            "responsible_mail": "a.nabrodov@roscryptpro.ru", 
+            "issue_id": 1, 
+            "used_hours": 364, 
+            "responsible_name": "Алексей Набродов", 
+            "subject": "Тестовая задача"
+        }, 
+        "2": {
+            "allotted_hours": 60, 
+            "sended_to_manager": false, 
+            "issue_link": "http://redmine.crypto.local/issues/2", 
+            "sended_to_responsible": false, 
+            "responsible_mail": "a.nabrodov@roscryptpro.ru", 
+            "issue_id": 2, 
+            "used_hours": 364, 
+            "responsible_name": "Алексей Набродов", 
+            "subject": "Верстка везде едет дико"
+        }, 
+        "5": {
+            "allotted_hours": 60, 
+            "sended_to_manager": false, 
+            "issue_link": "http://redmine.crypto.local/issues/5", 
+            "sended_to_responsible": false, 
+            "responsible_mail": "n.malysheva@roscryptpro.ru", 
+            "issue_id": 5, 
+            "used_hours": 290, 
+            "responsible_name": "Наталья Малышева", 
+            "subject": "очередной тест -5 "
+        }, 
+        "4": {
+            "allotted_hours": 60, 
+            "sended_to_manager": false, 
+            "issue_link": "http://redmine.crypto.local/issues/4", 
+            "sended_to_responsible": false, 
+            "responsible_mail": "sysadmin@roscryptpro.ru", 
+            "issue_id": 4, 
+            "used_hours": 290, 
+            "responsible_name": "Redmine Admin", 
+            "subject": "новая  задача"
+        }, 
+        "7": {
+            "allotted_hours": 60, 
+            "sended_to_manager": false, 
+            "issue_link": "http://redmine.crypto.local/issues/7", 
+            "sended_to_responsible": false, 
+            "responsible_mail": "f.ortyanov@roscryptpro.ru", 
+            "issue_id": 7, 
+            "used_hours": 289, 
+            "responsible_name": "Федор Ортянов", 
+            "subject": "еще раз нова "
+        }, 
+        "6": {
+            "allotted_hours": 60, 
+            "sended_to_manager": false, 
+            "issue_link": "http://redmine.crypto.local/issues/6", 
+            "sended_to_responsible": false, 
+            "responsible_mail": "n.malysheva@roscryptpro.ru", 
+            "issue_id": 6, 
+            "used_hours": 290, 
+            "responsible_name": "Наталья Малышева", 
+            "subject": "новая задача"
+        }, 
+        "8": {
+            "allotted_hours": 33, 
+            "sended_to_manager": false, 
+            "issue_link": "http://redmine.crypto.local/issues/8", 
+            "sended_to_responsible": false, 
+            "responsible_mail": "f.ortyanov@roscryptpro.ru", 
+            "issue_id": 8, 
+            "used_hours": 39, 
+            "responsible_name": "Федор Ортянов", 
+            "subject": "для добавления функционала"
+        }
+    }
+}

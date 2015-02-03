@@ -1,0 +1,18 @@
+{
+  "priority":{
+     "Низкий":"100",
+     "Нормальный":"60",
+     "Высокий":"33",
+     "Срочный":"16",
+     "Немедленный":"8"
+   },
+  "managers_role": "Chief Tester",
+  "connection":{
+      "rm_user":"ofi",
+      "rm_pass":"789789",
+      "ms_user":"redmine-tst@roscryptpro.ru",
+      "ms_pass":"789789",
+      "ms_addr":"172.20.1.5",
+      "rm_url":"redmine.crypto.local"
+  }
+}
